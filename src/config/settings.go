@@ -5,8 +5,8 @@ import (
 )
 
 var (
-	AppVersion             = "v8.3.5"
-	AppPort                = "3000"
+	AppVersion             = "v1.0.0"
+	AppPort                = "9220"
 	AppHost                = "0.0.0.0"
 	AppDebug               = false
 	AppOs                  = "GOWA"
